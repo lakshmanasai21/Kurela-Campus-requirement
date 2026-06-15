@@ -605,4 +605,4 @@ Proprietary. All rights reserved.
 
 **KloudCampus** — Modern Campus. Managed Simply.
 
-*System Requirements Specification v2.0 · 15 Sections · Complete SaaS Platform Specification*
+*System Requirements Specification v1.0 · 15 Sections · Complete SaaS Platform Specification*
